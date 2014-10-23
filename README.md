@@ -1,3 +1,3 @@
-Casey McCormick Voice Over Professional
+Casey McCormick
 ==============
-This is a site dedicated to the Professional Voice Over work of Casey McCormick.
+This is the GitHub hosted website of Casey McCormick.
